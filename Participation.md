@@ -1,22 +1,22 @@
-**How to participate**
+### How to participate
 
-To participate in the challenge, one team member must register on the predict.cdc.gov website *and*, after logging in, register specifically for the *Aedes* Forecasting Challenge ([instructions for registration](https://predict.cdc.gov/api/v1/attachments/aedes challenge 2019/epi_user_instructions.docx)). The forecast submissions will be made using this account. Only one forecast can be submitted for each deadline per account and the same account must be used for all submissions. If teams wish to submit different forecasts (e.g. from different models), they need to use multiple accounts.
+To participate in the challenge, one team member must register on the predict.cdc.gov website *and*, after logging in, register specifically for the *Aedes* Forecasting Challenge ([instructions for registration](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/epi_user_instructions.docx)). The forecast submissions will be made using this account. Only one forecast can be submitted for each deadline per account and the same account must be used for all submissions. If teams wish to submit different forecasts (e.g. from different models), they need to use multiple accounts.
 
 Full participation requires:
 
-1. Electronic submission of forecasts for all included counties and months by the respective deadlines (details below and **Evaluation** page).
+1. Electronic submission of forecasts for all included counties and months by the respective deadlines (details below and [Evaluation](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Evaluation.md) page).
 
 2. Submission of a model description document by email (details below).
 
-bp[Download registration instructions](https://predict.cdc.gov/api/v1/attachments/aedes challenge 2019/epi_user_instructions.docx)
+[Download registration instructions](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/epi_user_instructions.docx)
 
 ### Electronic submission
 
 **Forecast format**
 
-Forecasts should be made for each month in csv files matching the format in this [submission template](https://predict.cdc.gov/api/v1/attachments/aedes_challenge_2019/submission_template.csv). Each csv should contain forecasts for all counties and both species, but only for a single month. For internal record keeping, teams may find it useful to include the month in the file name. 
+Forecasts should be made for each month in csv files matching the format in this [submission template](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/submission_template.csv). Each csv should contain forecasts for all counties and both species, but only for a single month. For internal record keeping, teams may find it useful to include the month in the file name. 
 
-bp[Download forecast submission template](https://predict.cdc.gov/api/v1/attachments/aedes_challenge_2019/submission_template.csv)
+[Download forecast submission template](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/submission_template.csv)
 
 The forecast file includes one line for each forecast. That line includes:
 
@@ -28,7 +28,7 @@ The forecast file includes one line for each forecast. That line includes:
 
 * **unit**: “present” for all. Indicates the forecasts are for the observation of the species. I.e. a forecast of 0.8 indicates 80% chance of being trapped and reported (and 20% chance of not being trapped and reported). 
 
-* **value**: A probability for the observation of a specific species in that particular month and county. The value indicates the probability on a scale from 0 to 1, where 0 is certain absence, 0.5 is an equal chance of absence or presence (50/50), and 1.0 is certain presence). In the template, the values are 0.5 for all species and counties. These should be changed to reflect the forecast of each team. **Note**: when a forecast has high confidence but not absolute certainty, it may be beneficial to assign a very small probability to the unexpected outcome to prevent a very low score should that occur, e.g. 0.999 instead of 1.0 for presence or 0.001 instead of 0 for absence. See the **Evaluation** page for details on scoring.  
+* **value**: A probability for the observation of a specific species in that particular month and county. The value indicates the probability on a scale from 0 to 1, where 0 is certain absence, 0.5 is an equal chance of absence or presence (50/50), and 1.0 is certain presence). In the template, the values are 0.5 for all species and counties. These should be changed to reflect the forecast of each team. **Note**: when a forecast has high confidence but not absolute certainty, it may be beneficial to assign a very small probability to the unexpected outcome to prevent a very low score should that occur, e.g. 0.999 instead of 1.0 for presence or 0.001 instead of 0 for absence. See the [Evaluation](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Evaluation.md) page for details on scoring.  
 
 **Submission process**
 
@@ -49,4 +49,4 @@ Each team should select their best model for forecasts and submit a brief model 
 
 ### Participation agreement
 
-All participants provide consent for their forecasts to be published in real-time on the CDC’s Epidemic Prediction Initiative website (https://predict.cdc.gov/), GitHub page (https://github.com/cdcepi), and, after the season ends, in a scientific journal describing the results of the challenge. The forecasts can be attributed to a team name (e.g., John Doe University) or anonymous (e.g., Team A) based on individual team preference. Team names should be limited to 25 characters for display online. The team name registered with the EPI website will be displayed alongside a team’s forecasts. Any team may publish results from their forecast at any time, but no participating team may publish the results of another team’s model in any form without the team’s consent. Any mosquito surveillance data used should acknowledge the sources of those data as stated on the **Data** page. The manuscript describing the accuracy of forecasts across teams will be coordinated by a representative from CDC.
+All participants provide consent for their forecasts to be published in real-time on the CDC’s Epidemic Prediction Initiative website (https://predict.cdc.gov/), GitHub page (https://github.com/cdcepi), and, after the season ends, in a scientific journal describing the results of the challenge. The forecasts can be attributed to a team name (e.g., John Doe University) or anonymous (e.g., Team A) based on individual team preference. Team names should be limited to 25 characters for display online. The team name registered with the EPI website will be displayed alongside a team’s forecasts. Any team may publish results from their forecast at any time, but no participating team may publish the results of another team’s model in any form without the team’s consent. Any mosquito surveillance data used should acknowledge the sources of those data as stated on the [Data-2019](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Data-2019.md) and [Data-2020](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Data-2020.md) pages. The manuscript describing the accuracy of forecasts across teams will be coordinated by a representative from CDC.
