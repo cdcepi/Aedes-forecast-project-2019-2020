@@ -6,7 +6,7 @@
 
 **Challenge**
 
-This is an _**open**_ forecasting challenge to predict the monthly presence of *Ae. aegypti* and *Ae. albopictus* in a subset of U.S. counties during the 2019 and 2020 calendar years. The forecasting targets are described on the [**Targets**]() page. The subset of counties are listed on the [**Data-2019**]() and [**Data-2020**]() pages along with historical data for each county. Participation guidelines are described on the [**Participation**]() page and evaluation criteria are described on the [**Evaluation**]() page.
+This is an _**open**_ forecasting challenge to predict the monthly presence of *Ae. aegypti* and *Ae. albopictus* in a subset of U.S. counties during the 2019 and 2020 calendar years. The forecasting targets are described on the [**Targets**](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Targets.md) page. The subset of counties are listed on the [**Data-2019**](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Data-2019.md) and [**Data-2020**](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Data-2020.md) pages along with historical data for each county. Participation guidelines are described on the [**Participation**](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Participation.md) page and evaluation criteria are described on the [**Evaluation**](https://github.com/cdcepi/Aedes-forecast-project-2019-2020/blob/main/Evaluation.md) page.
 
 **Timeline - 2019**
 * Project announcement and data release: February 4, 2019.
