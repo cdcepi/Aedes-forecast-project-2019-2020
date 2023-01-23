@@ -1,0 +1,223 @@
+state,statefp,county,countyfp,year,month,trap_type,num_sites,num_collection_events,num_trap_nights,num_aegypti_collected,num_albopictus_collected,num_collections_aegypti,num_collections_albopictus
+North Carolina,37,Bertie,15,2018,6,BGS,1,2,2,0,7,0,2
+North Carolina,37,Bertie,15,2018,7,BGS,1,4,4,0,7,0,2
+North Carolina,37,Bertie,15,2018,8,BGS,1,4,4,0,11,0,3
+North Carolina,37,Bertie,15,2018,9,BGS,1,4,4,0,23,0,4
+North Carolina,37,Bertie,15,2018,10,BGS,1,4,4,0,3,0,1
+North Carolina,37,Bertie,15,2018,11,BGS,1,2,2,0,0,0,0
+North Carolina,37,Bertie,15,2019,5,BGS,1,1,7,0,1,0,1
+North Carolina,37,Bertie,15,2019,6,BGS,1,2,8,0,5,0,2
+North Carolina,37,Bertie,15,2019,7,BGS,2,3,3,0,4,0,2
+North Carolina,37,Bertie,15,2019,8,BGS,1,1,1,0,5,0,1
+North Carolina,37,Bertie,15,2019,9,BGS,1,1,1,0,2,0,1
+North Carolina,37,Chowan,41,2018,6,BGS,1,2,2,0,6,0,1
+North Carolina,37,Chowan,41,2018,7,BGS,1,4,4,0,1,0,1
+North Carolina,37,Chowan,41,2018,8,BGS,1,4,4,0,3,0,1
+North Carolina,37,Chowan,41,2018,9,BGS,1,4,4,0,3,0,1
+North Carolina,37,Chowan,41,2018,10,BGS,1,4,4,0,0,0,0
+North Carolina,37,Chowan,41,2018,11,BGS,1,1,1,0,0,0,0
+North Carolina,37,Chowan,41,2019,5,BGS,1,1,7,0,4,0,1
+North Carolina,37,Chowan,41,2019,6,BGS,1,2,8,0,0,0,0
+North Carolina,37,Chowan,41,2019,7,BGS,1,2,2,0,0,0,0
+North Carolina,37,Chowan,41,2019,8,BGS,1,1,1,0,0,0,0
+North Carolina,37,Edgecombe,65,2018,5,CO2,2,5,5,0,0,0,0
+North Carolina,37,Edgecombe,65,2018,5,GRAV,1,1,1,0,0,0,0
+North Carolina,37,Edgecombe,65,2018,6,CO2,1,4,4,0,4,0,2
+North Carolina,37,Edgecombe,65,2018,6,GRAV,1,1,1,0,3,0,1
+North Carolina,37,Edgecombe,65,2018,7,CO2,2,8,8,0,1,0,1
+North Carolina,37,Edgecombe,65,2018,7,GRAV,1,1,1,0,0,0,0
+North Carolina,37,Edgecombe,65,2018,8,CO2,2,8,8,0,2,0,2
+North Carolina,37,Edgecombe,65,2018,8,GRAV,1,1,1,0,2,0,1
+North Carolina,37,Edgecombe,65,2018,9,CO2,2,8,8,0,3,0,1
+North Carolina,37,Edgecombe,65,2018,9,GRAV,1,1,1,0,6,0,1
+North Carolina,37,Edgecombe,65,2018,10,CO2,2,8,8,0,2,0,2
+North Carolina,37,Edgecombe,65,2019,5,CO2,1,1,1,0,0,0,0
+North Carolina,37,Edgecombe,65,2019,6,CO2,1,2,2,0,0,0,0
+North Carolina,37,Edgecombe,65,2019,7,CO2,1,3,3,0,4,0,2
+North Carolina,37,Edgecombe,65,2019,8,CO2,1,2,2,0,2,0,1
+North Carolina,37,Edgecombe,65,2019,9,CO2,1,3,3,0,2,0,2
+North Carolina,37,Edgecombe,65,2019,10,CO2,1,1,1,0,1,0,1
+North Carolina,37,Gaston,71,2017,6,CO2,2,2,2,0,0,0,0
+North Carolina,37,Gaston,71,2017,8,CO2,3,5,5,0,0,0,0
+North Carolina,37,Gaston,71,2018,5,BGS,3,3,3,0,1,0,1
+North Carolina,37,Gaston,71,2018,8,BGS,1,1,1,0,8,0,1
+North Carolina,37,Gaston,71,2019,3,CO2,1,1,1,0,0,0,0
+North Carolina,37,Gaston,71,2019,4,CO2,1,1,1,0,0,0,0
+North Carolina,37,Gaston,71,2019,5,CO2,4,10,10,0,2,0,1
+North Carolina,37,Gaston,71,2019,6,BGS,4,4,4,0,5,0,2
+North Carolina,37,Gaston,71,2019,6,CO2,4,6,6,0,0,0,0
+North Carolina,37,Gaston,71,2019,7,BGS,2,2,2,0,1,0,1
+North Carolina,37,Gaston,71,2019,7,CO2,5,12,12,0,6,0,3
+North Carolina,37,Gaston,71,2019,8,BGS,1,1,1,0,0,0,0
+North Carolina,37,Gaston,71,2019,8,CO2,5,16,16,0,7,0,4
+North Carolina,37,Gaston,71,2019,9,CO2,5,9,9,0,0,0,0
+North Carolina,37,Gaston,71,2019,10,CO2,3,4,4,0,1,0,1
+North Carolina,37,Gates,73,2018,6,BGS,1,2,2,0,0,0,0
+North Carolina,37,Gates,73,2018,7,BGS,1,4,4,0,5,0,3
+North Carolina,37,Gates,73,2018,8,BGS,1,3,3,0,2,0,2
+North Carolina,37,Gates,73,2018,9,BGS,1,4,4,0,12,0,4
+North Carolina,37,Gates,73,2018,10,BGS,1,4,4,0,14,0,2
+North Carolina,37,Gates,73,2018,11,BGS,1,2,2,0,0,0,0
+North Carolina,37,Gates,73,2019,5,BGS,1,1,7,0,5,0,1
+North Carolina,37,Gates,73,2019,6,BGS,1,2,8,0,9,0,2
+North Carolina,37,Gates,73,2019,7,BGS,1,3,3,0,2,0,1
+North Carolina,37,Gates,73,2019,8,BGS,1,1,1,0,1,0,1
+North Carolina,37,Gates,73,2019,9,BGS,1,1,1,0,0,0,0
+North Carolina,37,Jackson,99,2018,5,BGS,7,9,9,0,7,0,3
+North Carolina,37,Jackson,99,2018,6,BGS,5,20,20,0,23,0,12
+North Carolina,37,Jackson,99,2018,7,BGS,4,20,20,0,32,0,14
+North Carolina,37,Jackson,99,2018,8,BGS,4,14,14,0,32,0,10
+North Carolina,37,Jackson,99,2018,9,BGS,4,12,12,0,52,0,9
+North Carolina,37,Jackson,99,2018,10,BGS,3,3,3,0,14,0,2
+North Carolina,37,Jackson,99,2019,4,BGS,4,5,5,0,0,0,0
+North Carolina,37,Jackson,99,2019,5,BGS,4,14,14,0,17,0,7
+North Carolina,37,Jackson,99,2019,6,BGS,5,15,15,0,14,0,9
+North Carolina,37,Jackson,99,2019,7,BGS,5,18,18,0,60,0,14
+North Carolina,37,Jackson,99,2019,8,BGS,3,8,8,0,9,0,3
+North Carolina,37,Jackson,99,2019,9,BGS,3,15,15,0,69,0,13
+North Carolina,37,Jackson,99,2019,10,BGS,3,12,12,0,1,0,1
+North Carolina,37,Nash,127,2018,5,CO2,3,13,13,0,3,0,2
+North Carolina,37,Nash,127,2018,6,CO2,3,12,12,0,4,0,3
+North Carolina,37,Nash,127,2018,7,CO2,3,10,10,0,1,0,1
+North Carolina,37,Nash,127,2018,8,CO2,3,11,11,0,4,0,3
+North Carolina,37,Nash,127,2018,9,CO2,2,7,7,0,1,0,1
+North Carolina,37,Nash,127,2018,10,CO2,3,11,11,0,1,0,1
+North Carolina,37,Nash,127,2019,5,CO2,3,7,7,0,2,0,1
+North Carolina,37,Nash,127,2019,6,CO2,2,4,4,0,1,0,1
+North Carolina,37,Nash,127,2019,7,CO2,3,8,8,0,3,0,2
+North Carolina,37,Nash,127,2019,8,CO2,3,8,8,0,0,0,0
+North Carolina,37,Nash,127,2019,9,CO2,3,6,6,0,0,0,0
+North Carolina,37,Nash,127,2019,10,CO2,2,3,3,0,0,0,0
+North Carolina,37,New Hanover,129,2017,2,CO2,8,11,11,0,0,0,0
+North Carolina,37,New Hanover,129,2017,3,CO2,8,31,37,0,0,0,0
+North Carolina,37,New Hanover,129,2017,4,CO2,8,28,28,0,2,0,1
+North Carolina,37,New Hanover,129,2017,5,CO2,14,47,47,0,69,0,17
+North Carolina,37,New Hanover,129,2017,6,BGS,2,2,3,0,5,0,2
+North Carolina,37,New Hanover,129,2017,6,CO2,13,39,39,0,60,0,14
+North Carolina,37,New Hanover,129,2017,7,CO2,13,50,50,0,69,0,21
+North Carolina,37,New Hanover,129,2017,8,CO2,14,40,40,0,64,0,19
+North Carolina,37,New Hanover,129,2017,9,BGS,1,3,3,0,3,0,2
+North Carolina,37,New Hanover,129,2017,9,CO2,12,39,39,0,22,0,7
+North Carolina,37,New Hanover,129,2017,10,BGS,1,13,16,0,2,0,2
+North Carolina,37,New Hanover,129,2017,10,CO2,13,48,48,0,10,0,5
+North Carolina,37,New Hanover,129,2017,11,BGS,1,4,4,0,1,0,1
+North Carolina,37,New Hanover,129,2017,11,CO2,10,37,37,0,4,0,3
+North Carolina,37,New Hanover,129,2017,12,BGS,1,2,2,0,1,0,1
+North Carolina,37,New Hanover,129,2018,1,BGS,1,1,1,0,0,0,0
+North Carolina,37,New Hanover,129,2018,2,BGS,2,4,8,0,0,0,0
+North Carolina,37,New Hanover,129,2018,3,BGS,1,3,3,0,0,0,0
+North Carolina,37,New Hanover,129,2018,3,CO2,10,32,32,0,0,0,0
+North Carolina,37,New Hanover,129,2018,4,BGS,1,5,5,0,0,0,0
+North Carolina,37,New Hanover,129,2018,4,CO2,9,45,45,0,0,0,0
+North Carolina,37,New Hanover,129,2018,4,GRAV,1,1,1,0,1,0,1
+North Carolina,37,New Hanover,129,2018,5,BGS,2,8,8,0,1,0,1
+North Carolina,37,New Hanover,129,2018,5,CO2,11,40,40,0,23,0,10
+North Carolina,37,New Hanover,129,2018,5,GRAV,1,1,1,0,0,0,0
+North Carolina,37,New Hanover,129,2018,6,BGS,2,10,30,0,39,0,8
+North Carolina,37,New Hanover,129,2018,6,CO2,11,39,39,0,147,0,16
+North Carolina,37,New Hanover,129,2018,6,GRAV,1,1,1,0,0,0,0
+North Carolina,37,New Hanover,129,2018,7,BGS,3,11,32,0,19,0,7
+North Carolina,37,New Hanover,129,2018,7,CO2,20,61,61,0,204,0,36
+North Carolina,37,New Hanover,129,2018,7,GRAV,2,2,2,0,9,0,2
+North Carolina,37,New Hanover,129,2018,8,BGS,2,13,25,0,71,0,9
+North Carolina,37,New Hanover,129,2018,8,CO2,15,36,45,0,228,0,25
+North Carolina,37,New Hanover,129,2018,8,GRAV,1,1,1,0,1,0,1
+North Carolina,37,New Hanover,129,2018,9,BGS,1,4,7,0,27,0,4
+North Carolina,37,New Hanover,129,2018,9,CO2,21,43,43,0,1176,0,17
+North Carolina,37,New Hanover,129,2018,10,BGS,3,15,28,0,23,0,7
+North Carolina,37,New Hanover,129,2018,10,CO2,15,42,42,0,61,0,21
+North Carolina,37,New Hanover,129,2018,10,GRAV,3,3,3,0,5,0,2
+North Carolina,37,New Hanover,129,2018,11,BGS,1,9,32,0,2,0,2
+North Carolina,37,New Hanover,129,2018,11,CO2,9,36,36,0,8,0,7
+North Carolina,37,New Hanover,129,2019,3,CO2,8,18,18,0,0,0,0
+North Carolina,37,New Hanover,129,2019,4,BGS,4,6,36,0,2,0,1
+North Carolina,37,New Hanover,129,2019,4,CO2,18,54,60,0,4,0,4
+North Carolina,37,New Hanover,129,2019,5,CO2,37,62,81,0,48,0,11
+North Carolina,37,New Hanover,129,2019,5,GRAV,1,1,1,0,0,0,0
+North Carolina,37,New Hanover,129,2019,6,BGS,2,6,42,0,6,0,3
+North Carolina,37,New Hanover,129,2019,6,CO2,18,45,45,0,127,0,20
+North Carolina,37,New Hanover,129,2019,6,GRAV,1,1,1,0,1,0,1
+North Carolina,37,New Hanover,129,2019,7,BGS,3,10,52,0,11,0,4
+North Carolina,37,New Hanover,129,2019,7,CO2,21,55,55,0,322,0,26
+North Carolina,37,New Hanover,129,2019,7,GRAV,1,1,1,0,0,0,0
+North Carolina,37,New Hanover,129,2019,8,BGS,3,10,42,0,5,0,3
+North Carolina,37,New Hanover,129,2019,8,CO2,11,39,39,0,132,0,18
+North Carolina,37,New Hanover,129,2019,8,GRAV,1,2,2,0,4,0,1
+North Carolina,37,New Hanover,129,2019,9,BGS,3,9,50,0,6,0,3
+North Carolina,37,New Hanover,129,2019,9,CO2,11,39,40,0,123,0,16
+North Carolina,37,New Hanover,129,2019,9,GRAV,1,2,2,0,1,0,1
+North Carolina,37,New Hanover,129,2019,10,BGS,3,10,38,0,0,0,0
+North Carolina,37,New Hanover,129,2019,10,CO2,9,36,36,0,0,0,0
+North Carolina,37,New Hanover,129,2019,10,GRAV,3,7,7,0,1,0,1
+North Carolina,37,Pasquotank,139,2018,6,BGS,1,2,2,0,2,0,2
+North Carolina,37,Pasquotank,139,2018,7,BGS,1,3,3,0,10,0,2
+North Carolina,37,Pasquotank,139,2018,8,BGS,1,3,3,0,4,0,2
+North Carolina,37,Pasquotank,139,2018,9,BGS,1,4,4,0,7,0,3
+North Carolina,37,Pasquotank,139,2018,10,BGS,1,3,3,0,9,0,2
+North Carolina,37,Pasquotank,139,2018,11,BGS,1,1,1,0,0,0,0
+North Carolina,37,Pasquotank,139,2019,5,BGS,1,1,7,0,0,0,0
+North Carolina,37,Pasquotank,139,2019,6,BGS,1,1,7,0,1,0,1
+North Carolina,37,Pasquotank,139,2019,7,BGS,1,3,3,0,33,0,3
+North Carolina,37,Pasquotank,139,2019,8,BGS,1,1,1,0,4,0,1
+North Carolina,37,Pasquotank,139,2019,9,BGS,1,1,1,0,30,0,1
+North Carolina,37,Pitt,147,2017,4,BGS,4,6,6,0,347,0,5
+North Carolina,37,Pitt,147,2017,5,BGS,4,14,20,0,1777,0,14
+North Carolina,37,Pitt,147,2017,6,BGS,3,12,12,0,2594,0,12
+North Carolina,37,Pitt,147,2017,6,CO2,1,4,4,0,615,0,4
+North Carolina,37,Pitt,147,2017,7,BGS,3,12,12,0,1532,0,12
+North Carolina,37,Pitt,147,2017,7,CO2,1,10,10,0,1485,0,10
+North Carolina,37,Pitt,147,2017,8,BGS,2,5,5,0,965,0,5
+North Carolina,37,Pitt,147,2017,8,CO2,1,7,7,0,2215,0,7
+North Carolina,37,Pitt,147,2017,9,BGS,3,11,11,0,586,0,11
+North Carolina,37,Pitt,147,2017,9,CO2,1,4,4,0,1272,0,4
+North Carolina,37,Pitt,147,2017,10,BGS,3,9,9,0,142,0,8
+North Carolina,37,Pitt,147,2017,10,CO2,1,4,4,0,909,0,4
+North Carolina,37,Pitt,147,2017,11,BGS,3,3,3,0,9,0,2
+North Carolina,37,Pitt,147,2017,11,CO2,1,4,4,0,406,0,4
+North Carolina,37,Pitt,147,2018,3,CO2,1,1,1,0,0,0,0
+North Carolina,37,Pitt,147,2018,4,BGS,1,6,6,0,0,0,0
+North Carolina,37,Pitt,147,2018,4,CO2,1,10,10,0,0,0,0
+North Carolina,37,Pitt,147,2018,5,BGS,13,40,42,0,67,0,19
+North Carolina,37,Pitt,147,2018,5,CO2,10,33,33,0,4,0,1
+North Carolina,37,Pitt,147,2018,6,BGS,18,53,53,0,21611,0,48
+North Carolina,37,Pitt,147,2018,6,CO2,8,36,36,0,40,0,6
+North Carolina,37,Pitt,147,2018,6,GRAV,6,10,10,0,206,0,8
+North Carolina,37,Pitt,147,2018,7,BGS,12,48,48,0,4839,0,43
+North Carolina,37,Pitt,147,2018,7,CO2,6,20,20,0,33,0,4
+North Carolina,37,Pitt,147,2018,7,GRAV,1,3,3,0,49,0,3
+North Carolina,37,Pitt,147,2018,8,BGS,8,31,31,0,6075,0,27
+North Carolina,37,Pitt,147,2018,8,CO2,8,26,26,0,23,0,5
+North Carolina,37,Pitt,147,2018,8,GRAV,2,9,9,0,52,0,9
+North Carolina,37,Pitt,147,2018,9,BGS,18,56,56,0,339,0,42
+North Carolina,37,Pitt,147,2018,9,CO2,7,16,16,0,5,0,1
+North Carolina,37,Pitt,147,2018,10,BGS,19,47,47,0,135,0,24
+North Carolina,37,Pitt,147,2018,10,CO2,4,12,12,0,0,0,0
+North Carolina,37,Pitt,147,2018,11,CO2,4,7,7,0,0,0,0
+North Carolina,37,Pitt,147,2019,2,CO2,1,2,2,0,0,0,0
+North Carolina,37,Pitt,147,2019,3,CO2,1,2,2,0,0,0,0
+North Carolina,37,Pitt,147,2019,4,CO2,2,9,9,0,0,0,0
+North Carolina,37,Pitt,147,2019,5,CO2,1,1,1,0,0,0,0
+North Carolina,37,Transylvania,175,2017,4,BGS,2,6,8,0,0,0,0
+North Carolina,37,Transylvania,175,2017,4,CO2,1,3,3,0,0,0,0
+North Carolina,37,Transylvania,175,2017,5,BGS,3,10,20,0,0,0,0
+North Carolina,37,Transylvania,175,2017,5,CO2,1,2,2,0,0,0,0
+North Carolina,37,Transylvania,175,2017,6,BGS,4,9,18,0,16,0,3
+North Carolina,37,Transylvania,175,2017,6,CO2,2,4,4,0,1,0,1
+North Carolina,37,Transylvania,175,2017,7,BGS,2,2,2,0,3,0,2
+North Carolina,37,Transylvania,175,2017,8,BGS,2,6,8,0,29,0,5
+North Carolina,37,Transylvania,175,2017,9,BGS,3,10,13,0,80,0,7
+North Carolina,37,Transylvania,175,2017,9,CO2,1,2,2,0,0,0,0
+North Carolina,37,Transylvania,175,2017,10,BGS,3,5,8,0,29,0,2
+North Carolina,37,Transylvania,175,2017,10,CO2,1,2,2,0,0,0,0
+North Carolina,37,Transylvania,175,2018,4,BGS,2,6,12,0,0,0,0
+North Carolina,37,Transylvania,175,2018,5,BGS,4,7,12,0,0,0,0
+North Carolina,37,Transylvania,175,2018,5,CO2,1,1,1,0,0,0,0
+North Carolina,37,Transylvania,175,2018,5,GRAV,1,1,1,0,0,0,0
+North Carolina,37,Transylvania,175,2018,6,BGS,4,6,12,0,4,0,2
+North Carolina,37,Transylvania,175,2018,6,GRAV,1,2,2,0,1,0,1
+North Carolina,37,Transylvania,175,2018,7,BGS,2,2,2,0,8,0,1
+North Carolina,37,Transylvania,175,2018,8,BGS,2,2,4,0,13,0,1
+North Carolina,37,Transylvania,175,2018,8,CO2,2,2,2,0,0,0,0
+North Carolina,37,Transylvania,175,2018,8,GRAV,1,2,2,0,0,0,0
+North Carolina,37,Transylvania,175,2018,9,BGS,2,2,4,0,5,0,2
+North Carolina,37,Transylvania,175,2018,10,BGS,2,2,4,0,17,0,2
